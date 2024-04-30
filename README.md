@@ -83,5 +83,6 @@ OUTPUT:
 
 RESULT:
 
+Thus the simulation and synthesis of finite state machine using vivado 2023.2 was successfully executed and verified
 
 
