@@ -27,7 +27,6 @@ Logic Diagram :
 
 
 VERILOG CODE:
-
 ```
 module FSM_moore(clk, rst, x, z);
 input clk, rst, x;
@@ -63,6 +62,10 @@ present_state<=NEXT_STATE;
 assign z=(present_state==S3); // define output
 endmodule
 ```
+
+
+
+
 
 
 OUTPUT:
